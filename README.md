@@ -13,14 +13,13 @@ Day 1 Exercise Advanced
   <main>
   <div>
     <nav> 
-      <i>     <a href="https://https://short2000.github.io/Multipage//">main</a>
+             <a href="https://short2000.github.io/Multipage/">Main</a>
      <a href="https://github.com/Short2000/ContactPage/edit/main/README.md/">LaHainePage</a>
-            <a href="https:>https://github.com/Short2000/ContactPage/edit/main/README.md/">ContactPage</a>
+             <a href="//">ContactPage</a>
      <a href="https://short2000.github.io/Redman--Go-Hard-Lyrics-//">Redman(Lyrics)</a>
      <a href="https://github.com/Short2000/Welcome-Everbody/edit/main/README.md/">Welcome Everbody</a>
             </nav> 
-        
-   </div>
+    </div>
     
    
   </body>
